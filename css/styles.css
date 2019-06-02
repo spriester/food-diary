@@ -1,0 +1,23 @@
+.intro {
+  font-family: sans-serif;
+  color: purple;
+  font-style: italic;
+}
+
+.blog {
+  font-family: sans-serif;
+  color: turquoise;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.about-me {
+  font-family: sans-serif;
+  color: seagreen;
+}
+
+.highlight {
+  font-family: sans-serif;
+  color: skyblue;
+  font-weight: 600;
+}
